@@ -1,4 +1,10 @@
 {
+  "user": {
+    "id": 1,
+    "firstName": "Osvaldo",
+    "lastName": "Monka",
+    "age": 27
+  }
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
